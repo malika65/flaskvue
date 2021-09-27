@@ -1,0 +1,13 @@
+Flask
+flask-wtf
+flask-jwt-extended
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+Flask-Mail
+flask-cors
+flask-bcrypt
+Pillow
+Flask-Excel
+pyexcel-xlsx
+pdfkit
